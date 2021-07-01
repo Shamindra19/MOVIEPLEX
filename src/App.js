@@ -22,7 +22,7 @@ function App() {
         <Row id="7" title="Documentaries" fetchUrl={requests.fetchDocumentaries}/>
       </div>
       <div className="copyright">
-      <a href="https://github.com/ahmetalpergit/" className="copyright__link">Ahmet Alper <span>&copy; 2020</span></a>
+      <a href="https://github.com/Shamindra19/" className="copyright__link">Shamindra Sen <span>&copy; 2021</span></a>
       </div>
     </div>
   );
